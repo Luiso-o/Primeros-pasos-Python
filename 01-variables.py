@@ -1,17 +1,18 @@
 # no hace falta especificar el tipo de variable
-my_string_variable = "My string variable"
-print(my_string_variable)
+print("\n***Variables***\n")
+my_string_variable = "My string variable" 
+print(my_string_variable) # My string variable
 
 my_int_variable = 3
-print(my_int_variable)
+print(my_int_variable) # 3
 
-my_int_to_str_variable = str(my_int_variable)
-print(my_int_to_str_variable)
-print(type(my_int_to_str_variable))
+my_int_to_str_variable = str(my_int_variable) #str convierte cualquier tipo de dato en string
+print(my_int_to_str_variable) # 3
+print(type(my_int_to_str_variable)) # string
 
 
 my_bool_variable = True
-print(my_bool_variable)
+print(my_bool_variable) # True
 
 # puedo compilar dos variables separadas por una coma
 print(my_string_variable, my_int_variable,my_bool_variable)
