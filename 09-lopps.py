@@ -62,8 +62,44 @@ for element in my_set:
 
 print("\nfor dict:")
 ##############################################
+ #se implimiran las claves
 for element in my_dict:
     print(element)
+
+ #para poder inprimir el valor puedes convertir ek dict en una list
+for element in list(my_dict.values()):
+    print(element)
+##############################################
+
+print("\nfor usando else")
+##############################################
+for element in my_dict:
+    print(element)
+else:
+    print("El bucle for ha finalizado")
+##############################################
+
+
+print("\nfor usando un break")
+##############################################
+for element in my_dict:
+    print(element)
+    if element == "Edad":
+     break
+    print("Has pasado por ", element)
+else:
+    print("Has recorrido todo el diccionario")
+##############################################
+
+print("\nfor usando un continue")
+##############################################
+for element in my_dict:
+    print(element)
+    if element == "Edad":
+     continue
+    print("Has pasado por ", element)
+else:
+    print("Has recorrido todo el diccionario")
 ##############################################
 
 print("\nSalimos del bucle")
