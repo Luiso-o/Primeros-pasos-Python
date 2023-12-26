@@ -3,12 +3,19 @@
 ### Curso básico
 * <a href = "https://www.youtube.com/watch?v=Kp4Mvapo5kc&t=7344s">Curso de PYTHON desde CERO para PRINCIPIANTES</a> 
 
-* <a href = "https://github.com/Asabeneh/30-Days-Of-Python">30-Days-Of-Python / Asabeneh repository</a>
+* <a href = "https://github.com/Asabeneh/30-Days-Of-Python">Buscador y descarga de paquetes Python</a>
 
 ### Curso intermédio
 
 * <a href = "https://www.youtube.com/watch?v=TbcEqkabAWU&t=335s">Curso de PYTHON desde CERO para PRINCIPIANTES [Intermedio]</a>
 
+* <a href = "https://pypi.org/project/pip/">Para aprender y validar expresiones regulares</a>
+
 ### Para practicar la lógica
  
 * <a href = "https://retosdeprogramacion.com/">RetosdeProgramación.com</a>
+
+* <a href = "https://regex101.com/">Para aprender y validar expresiones regulares</a>
+
+
+
