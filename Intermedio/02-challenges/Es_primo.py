@@ -22,7 +22,6 @@ def es_primo():
             if not is_divisible:
                 print(numero )
             
-
 es_primo()
 
 
