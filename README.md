@@ -9,13 +9,15 @@
 
 * <a href = "https://www.youtube.com/watch?v=TbcEqkabAWU&t=335s">Curso de PYTHON desde CERO para PRINCIPIANTES [Intermedio]</a>
 
-* <a href = "https://pypi.org/project/pip/">Para aprender y validar expresiones regulares</a>
+* <a href = "https://regex101.com/">Para aprender y validar expresiones regulares</a>
 
-### Para practicar la lógica
+* <a href = "https://pypi.org/project/pip/">Encuentre, instale y publique paquetes de Python con el Índice de paquetes de Python</a>
  
 * <a href = "https://retosdeprogramacion.com/">RetosdeProgramación.com</a>
 
 * <a href = "https://regex101.com/">Para aprender y validar expresiones regulares</a>
 
+### Python BackEnd
 
+* <a href = "https://www.youtube.com/watch?v=_y9qQZXE24A">Curso de PYTHON desde CERO para BACKEND</a>
 
