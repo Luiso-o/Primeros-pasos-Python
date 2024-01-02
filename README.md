@@ -21,3 +21,5 @@
 
 * <a href = "https://www.youtube.com/watch?v=_y9qQZXE24A">Curso de PYTHON desde CERO para BACKEND</a>
 
+* <a href = "https://fastapi.tiangolo.com/es/">FastAPI, documentaciín oficial</a>
+
